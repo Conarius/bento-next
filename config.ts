@@ -13,7 +13,7 @@ export const config: Config = {
   // General
   name: 'Con',
   openInNewTab: true,
-  title: 'Bento-Next',
+  title: 'Bento',
 
   // Clock
   twelveHourFormat: false,
