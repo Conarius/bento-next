@@ -111,7 +111,7 @@ export const config: Config = {
       {
         name: 'Mail',
         icon: 'envelope',
-        url: 'https://mail.protonmail.com/',
+        url: 'https://mail.proton.me/',
       },
       {
         name: 'Todoist',
@@ -121,7 +121,7 @@ export const config: Config = {
       {
         name: 'Calendar',
         icon: 'calendar',
-        url: 'https://calendar.google.com/calendar/r',
+        url: 'https://calendar.proton.me/',
       },
       {
         name: 'Reddit',
@@ -129,9 +129,9 @@ export const config: Config = {
         url: 'https://reddit.com',
       },
       {
-        name: 'Odysee',
+        name: 'Youtube',
         icon: 'fab-youtube',
-        url: 'https://odysee.com/',
+        url: 'https://www.youtube.com/',
       },
     ],
     // Second buttons group
@@ -139,8 +139,8 @@ export const config: Config = {
     [
       {
         name: 'Music',
-        icon: 'fab-spotify',
-        url: 'https://open.spotify.com',
+        icon: 'record_vinyl',
+        url: 'https://open.qobuz.com',
       },
       {
         name: 'twitter',
